@@ -1,0 +1,30 @@
+C:\Users\arnau\OneDrive\Escritorio\Chess-Challenge-main\Chess-Challenge\bin\Debug\net6.0\resources\Fens.txt
+C:\Users\arnau\OneDrive\Escritorio\Chess-Challenge-main\Chess-Challenge\bin\Debug\net6.0\resources\Pieces.png
+C:\Users\arnau\OneDrive\Escritorio\Chess-Challenge-main\Chess-Challenge\bin\Debug\net6.0\Chess-Challenge.exe
+C:\Users\arnau\OneDrive\Escritorio\Chess-Challenge-main\Chess-Challenge\bin\Debug\net6.0\src\Evil Bot\EvilBot.cs
+C:\Users\arnau\OneDrive\Escritorio\Chess-Challenge-main\Chess-Challenge\bin\Debug\net6.0\src\My Bot\MyBot.cs
+C:\Users\arnau\OneDrive\Escritorio\Chess-Challenge-main\Chess-Challenge\bin\Debug\net6.0\resources\Fonts\OPENSANS-SEMIBOLD.TTF
+C:\Users\arnau\OneDrive\Escritorio\Chess-Challenge-main\Chess-Challenge\bin\Debug\net6.0\resources\Fonts\sdf.fs
+C:\Users\arnau\OneDrive\Escritorio\Chess-Challenge-main\Chess-Challenge\bin\Debug\net6.0\Chess-Challenge.deps.json
+C:\Users\arnau\OneDrive\Escritorio\Chess-Challenge-main\Chess-Challenge\bin\Debug\net6.0\Chess-Challenge.runtimeconfig.json
+C:\Users\arnau\OneDrive\Escritorio\Chess-Challenge-main\Chess-Challenge\bin\Debug\net6.0\Chess-Challenge.dll
+C:\Users\arnau\OneDrive\Escritorio\Chess-Challenge-main\Chess-Challenge\bin\Debug\net6.0\Chess-Challenge.pdb
+C:\Users\arnau\OneDrive\Escritorio\Chess-Challenge-main\Chess-Challenge\bin\Debug\net6.0\Raylib-cs.dll
+C:\Users\arnau\OneDrive\Escritorio\Chess-Challenge-main\Chess-Challenge\bin\Debug\net6.0\runtimes\linux-x64\native\libraylib.so
+C:\Users\arnau\OneDrive\Escritorio\Chess-Challenge-main\Chess-Challenge\bin\Debug\net6.0\runtimes\osx-arm64\native\libraylib.dylib
+C:\Users\arnau\OneDrive\Escritorio\Chess-Challenge-main\Chess-Challenge\bin\Debug\net6.0\runtimes\osx-x64\native\libraylib.dylib
+C:\Users\arnau\OneDrive\Escritorio\Chess-Challenge-main\Chess-Challenge\bin\Debug\net6.0\runtimes\win-x64\native\raylib.dll
+C:\Users\arnau\OneDrive\Escritorio\Chess-Challenge-main\Chess-Challenge\bin\Debug\net6.0\runtimes\win-x86\native\raylib.dll
+C:\Users\arnau\OneDrive\Escritorio\Chess-Challenge-main\Chess-Challenge\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\arnau\OneDrive\Escritorio\Chess-Challenge-main\Chess-Challenge\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\arnau\OneDrive\Escritorio\Chess-Challenge-main\Chess-Challenge\obj\Debug\net6.0\Chess-Challenge.csproj.AssemblyReference.cache
+C:\Users\arnau\OneDrive\Escritorio\Chess-Challenge-main\Chess-Challenge\obj\Debug\net6.0\Chess-Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arnau\OneDrive\Escritorio\Chess-Challenge-main\Chess-Challenge\obj\Debug\net6.0\Chess-Challenge.AssemblyInfoInputs.cache
+C:\Users\arnau\OneDrive\Escritorio\Chess-Challenge-main\Chess-Challenge\obj\Debug\net6.0\Chess-Challenge.AssemblyInfo.cs
+C:\Users\arnau\OneDrive\Escritorio\Chess-Challenge-main\Chess-Challenge\obj\Debug\net6.0\Chess-Challenge.csproj.CoreCompileInputs.cache
+C:\Users\arnau\OneDrive\Escritorio\Chess-Challenge-main\Chess-Challenge\obj\Debug\net6.0\Chess-Challenge.csproj.CopyComplete
+C:\Users\arnau\OneDrive\Escritorio\Chess-Challenge-main\Chess-Challenge\obj\Debug\net6.0\Chess-Challenge.dll
+C:\Users\arnau\OneDrive\Escritorio\Chess-Challenge-main\Chess-Challenge\obj\Debug\net6.0\refint\Chess-Challenge.dll
+C:\Users\arnau\OneDrive\Escritorio\Chess-Challenge-main\Chess-Challenge\obj\Debug\net6.0\Chess-Challenge.pdb
+C:\Users\arnau\OneDrive\Escritorio\Chess-Challenge-main\Chess-Challenge\obj\Debug\net6.0\Chess-Challenge.genruntimeconfig.cache
+C:\Users\arnau\OneDrive\Escritorio\Chess-Challenge-main\Chess-Challenge\obj\Debug\net6.0\ref\Chess-Challenge.dll
